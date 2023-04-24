@@ -1,0 +1,9 @@
+{
+  "name": "scripture-protocol-remap",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^4.6.0"
+  }
+}
