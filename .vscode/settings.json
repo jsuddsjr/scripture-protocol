@@ -4,5 +4,6 @@
         "chromereload",
         "htmlmin",
         "useref"
-    ]
+    ],
+    "search.useIgnoreFiles": false
 }
